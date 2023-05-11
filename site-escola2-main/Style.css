@@ -5,6 +5,7 @@
     justify-content: space-around;
     padding: 24px 0; font-size: 24px;
     }
+    body{font-family: 'Poppins', sans-serif;}
     .cabecalho-imagem{ width: 20%;
     }
     .cabecalho-lista-item{display: inline;margin: 0 16px;
@@ -23,4 +24,6 @@
         }
     .escola-conteudo{width: 35%;
         }
-        .estudante-imagem{width: 120px;}
+        .estudante-imagens{
+            width: 120px;
+        }
